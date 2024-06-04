@@ -1,5 +1,5 @@
 const AppConfig = () => {
-  const baseUrl = 'http://localhost:3004/api/v1/'
+  const baseUrl = 'https://tidal-beacon-425005-a9.de.r.appspot.com/api/v1/'
 
   const apiDelay = 3000
   return { baseUrl, apiDelay }
